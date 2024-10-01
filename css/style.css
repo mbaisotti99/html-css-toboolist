@@ -7,3 +7,37 @@
 }
 
 
+body{
+    background-color: rgb(232, 234, 236);
+}
+
+header{
+    background-color: white;
+    margin-top: 0;
+}
+
+.contenitore{
+
+}
+
+
+.titolo{
+    display: inline-block;
+}
+
+
+header h1{
+    vertical-align:super;
+    font-size: 70px;
+    font-family: "Oswald";
+}
+
+header img{
+    width: 75px;
+    height: 75px;
+}
+
+
+.inizio{
+    padding: 7px;
+}

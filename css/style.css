@@ -126,7 +126,7 @@ li > p {
 
 
 
-.editorial{
+.tag{
     background-color: rgb(69 171 234);
     color: white;
     border: 0px;
@@ -136,6 +136,12 @@ li > p {
     font-weight: 300;
 }
 
+
+.editorial{
+    background-color: rgb(100 192 169);
+    color: white;
+
+}
 
 .q1{
     background-color: rgb(156 114 228);

@@ -26,6 +26,12 @@ header{
     background-color: white;
     border-radius: 5px;
 }
+.navbar{
+    border-bottom: 2px solid rgba(211, 211, 211, 0.404) ;
+    display: inline-block;
+    width: 100%;
+    padding: 20px;
+}
 
 
 .titolo{
@@ -79,4 +85,57 @@ header img{
     font-family: "Oswald";
     text-align: center;
     line-height: 5px;
+}
+
+
+.lista{
+    margin: 25px 10px;
+    list-style: none;
+    font-family: "Oswald", sans-serif;
+
+}
+
+
+li > ul {
+    list-style: none;
+}
+
+
+li > p {
+    display: inline-block;
+    font-size: 24px;
+}
+
+.check{
+    color: rgb(5, 207, 5);
+    border: 1px solid rgb(5, 207, 5);
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 15px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+
+.editorial{
+    background-color: rgb(69 171 234);
+    color: white;
+    border: 0px;
+    padding: 4px 15px;
+    border-radius: 10px;
+    margin: 5px;
+    font-weight: 300;
+}
+
+
+.q1{
+    background-color: rgb(156 114 228);
+    color: white;
+    border: 0px;
+    padding: 4px 15px;
+    border-radius: 10px;
+    margin: 5px;
+    font-weight: 300;
 }

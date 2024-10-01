@@ -118,7 +118,7 @@ li > p {
     margin: 10px;
 }
 
-.inter .simbolo{
+.inter .simbolo, .alex .simbolo{
     border-color: red;
     color: red;
 }
@@ -143,12 +143,27 @@ li > p {
 
 }
 
-.q1{
-    background-color: rgb(156 114 228);
-    color: white;
-    border: 0px;
-    padding: 4px 15px;
-    border-radius: 10px;
-    margin: 5px;
-    font-weight: 300;
+
+.mobile .tag {
+    background-color: blueviolet;
+}
+
+
+.inter .tag {
+    background-color: rgb(63, 211, 130);
+}
+
+
+.summit .tag {
+    background-color: orange;
+}
+
+
+.homep .tag {
+    background-color: violet;
+}
+
+
+.onboard .tag {
+    background-color: greenyellow;
 }
